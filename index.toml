@@ -51,6 +51,11 @@ hash = "2c5a4883d1d09de6f0a7b447c2e52b3b55599527d2b583d768edcaffd7fcf070"
 metafile = true
 
 [[files]]
+file = "mods/.index/lithostitched.pw.toml"
+hash = "5f00bdd81e5e1b2ed0f9935ef0bff344331515ca00b7813f1394c98305796a31"
+metafile = true
+
+[[files]]
 file = "mods/.index/modernfix.pw.toml"
 hash = "ad90450b906f8c07fd0df5795372b2cea84f4c7433f978e3cb90274f9b6b57cb"
 metafile = true
@@ -128,6 +133,10 @@ hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 [[files]]
 file = "mods/libIPN-forge-1.20-4.0.2.jar"
 hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
+
+[[files]]
+file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
+hash = "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
 
 [[files]]
 file = "mods/modernfix-forge-5.27.25+mc1.20.1.jar"
