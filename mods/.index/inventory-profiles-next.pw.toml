@@ -1,25 +1,25 @@
-filename = 'InventoryProfilesNext-forge-1.20-1.10.20.jar'
+filename = 'InventoryProfilesNext-forge-1.20-1.10.9.jar'
 name = 'Inventory Profiles Next'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'forge-1.20.1-1.10.20'
+x-prismlauncher-version-number = 'forge-1.20.1-1.10.9'
 
 [download]
-hash = '8d2ecb06d6cebe56b1e55c1cf535bd4aefd8c1bd7642741435ea0c07a1073e275c40c6b2bfd9c3f2d8fd73b711422e4e2b5e39f84ae756028517715633ed5658'
+hash = '792be4e260ae1e8155ac9ea5b3f08a6231fa0274cd1f97eacc5381639c2b6619077b532ed04af15ec3db2e32a18bbc7b0fdb515dc26c4a7a309d546ff1bb55a8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/O7RBXm3n/versions/CrtAI3P9/InventoryProfilesNext-forge-1.20-1.10.20.jar'
+url = 'https://cdn.modrinth.com/data/O7RBXm3n/versions/ezUXRXN1/InventoryProfilesNext-forge-1.20-1.10.9.jar'
 
 [update.modrinth]
 mod-id = 'O7RBXm3n'
-version = 'CrtAI3P9'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'onSQdWhM'
-type = 'REQUIRED'
+version = 'ezUXRXN1'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'ordsPcFz'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'onSQdWhM'
 type = 'REQUIRED'
