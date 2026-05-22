@@ -11,11 +11,6 @@ hash = "eb6b25367d465a1b334186c95de507d3c05b8c1b3cf0d915d9902c5087da878f"
 metafile = true
 
 [[files]]
-file = "mods/.index/cosmetic-armor-reworked.pw.toml"
-hash = "249dc5b3e34310d5e2df2958b91e22e9f6a1330ba154ee9f00d67eb1bccb4f26"
-metafile = true
-
-[[files]]
 file = "mods/.index/embeddium.pw.toml"
 hash = "e5987bdc944473224167dbefde451380ae13cd742393a5c6b09e6b7409062316"
 metafile = true
@@ -73,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/.index/pretty-pipes.pw.toml"
 hash = "92a932ab0155029a0da6b443e456d0ecf2936cbe4a40c119d3baf9706639cd08"
-metafile = true
-
-[[files]]
-file = "mods/.index/simply-light.pw.toml"
-hash = "381567eae6eeac7bbefed509deadbc26f49dd190c14e734b0387fbed2bbaa9f5"
 metafile = true
 
 [[files]]
