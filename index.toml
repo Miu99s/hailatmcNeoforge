@@ -13,7 +13,7 @@ metafile = true
 [[files]]
 file = "mods/.index/cosmetic-armor-reworked.pw.toml"
 hash = "249dc5b3e34310d5e2df2958b91e22e9f6a1330ba154ee9f00d67eb1bccb4f26"
-metafile = true
+metafile = false
 
 [[files]]
 file = "mods/.index/embeddium.pw.toml"
@@ -78,7 +78,7 @@ metafile = true
 [[files]]
 file = "mods/.index/simply-light.pw.toml"
 hash = "381567eae6eeac7bbefed509deadbc26f49dd190c14e734b0387fbed2bbaa9f5"
-metafile = true
+metafile = false
 
 [[files]]
 file = "mods/.index/sophisticated-core.pw.toml"
