@@ -16,11 +16,6 @@ hash = "249dc5b3e34310d5e2df2958b91e22e9f6a1330ba154ee9f00d67eb1bccb4f26"
 metafile = true
 
 [[files]]
-file = "mods/.index/custom-player-models.pw.toml"
-hash = "9cef91ae4a160d8031e7f1973c5c5f79a35efd19c0d18fbe0f6a68511be70966"
-metafile = true
-
-[[files]]
 file = "mods/.index/embeddium.pw.toml"
 hash = "e5987bdc944473224167dbefde451380ae13cd742393a5c6b09e6b7409062316"
 metafile = true
@@ -81,6 +76,11 @@ hash = "92a932ab0155029a0da6b443e456d0ecf2936cbe4a40c119d3baf9706639cd08"
 metafile = true
 
 [[files]]
+file = "mods/.index/simply-light.pw.toml"
+hash = "381567eae6eeac7bbefed509deadbc26f49dd190c14e734b0387fbed2bbaa9f5"
+metafile = true
+
+[[files]]
 file = "mods/.index/sophisticated-core.pw.toml"
 hash = "6a5694113a84cdca144e956b9694f13f6667dd7c7d2065c83c3e2b3a4f9b97d5"
 metafile = true
@@ -114,10 +114,6 @@ metafile = true
 file = "mods/.index/xaeros-world-map.pw.toml"
 hash = "1dbe5cd38b82dcdc4977a3033672538f73e6d5488e9c828488b12fd26218cf56"
 metafile = true
-
-[[files]]
-file = "mods/CustomPlayerModels-1.20-0.6.25a.jar"
-hash = "fbbf2995b859f392ef9b272b889b54e5713dce8941d8ea6835081e6ca3e3eea6"
 
 [[files]]
 file = "mods/FixPotionInventory-1.0.0.jar"
@@ -182,6 +178,10 @@ hash = "1b0dc9c72c67e0715166e91f7f76e104dc54a31b2ed0e907feadc8bd4211ed98"
 [[files]]
 file = "mods/no-enderman-grief-v.1.1.2.jar"
 hash = "624d60f14a6980ea55367aea4ad8c68c88d3548228fbe7f99f7f3e4d4a78e2cc"
+
+[[files]]
+file = "mods/simplylight-1.20.1-1.4.6-build.50.jar"
+hash = "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
 
 [[files]]
 file = "mods/sophisticatedcore-1.20.1-1.3.36.1854.jar"
