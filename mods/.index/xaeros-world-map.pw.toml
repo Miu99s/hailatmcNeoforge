@@ -1,20 +1,20 @@
-filename = 'XaerosWorldMap_1.36.0_Forge_1.20.jar'
+filename = 'xaeroworldmap-forge-1.20.1-1.40.16.jar'
 name = "Xaero's World Map"
-side = ''
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.36.0_Forge_1.20'
+x-prismlauncher-version-number = 'forge-1.20.1-1.40.16'
 
 [download]
-hash = 'a40300072d636756d8660c6397540d859355a59329052623d031a1a6d83b31ef9c87e86351c71318385c42764408d9e8d0cd97da5e340eb45bbe68b4816301db'
+hash = '7488d9a01f8d9dc24042caa183a5859a6e2dc111624740230bc76b290131477a5d1e26dc9d5c956ebf866939f4a4d19a856e6b3b1d1b96c52030952f44254dac'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NcUtCpym/versions/lsh7rZ8c/XaerosWorldMap_1.36.0_Forge_1.20.jar'
+url = 'https://cdn.modrinth.com/data/NcUtCpym/versions/5mJcHKn6/xaeroworldmap-forge-1.20.1-1.40.16.jar'
 
 [update.modrinth]
 mod-id = 'NcUtCpym'
-version = 'lsh7rZ8c'
+version = '5mJcHKn6'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'gF3BGWvG'
