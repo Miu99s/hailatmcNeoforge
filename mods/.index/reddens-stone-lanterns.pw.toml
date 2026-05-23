@@ -1,0 +1,18 @@
+filename = 'reddens_stone_lanterns_1.0.3-forge1.20.1.jar'
+name = "Redden's Stone Lanterns"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = 'cc5e1226bd6914277a4afa3ca6cd3105bc876191c9e25fd10d18928062f62e8822fe664f3c1accb75afd8c95416a6b0435ca4663be605ccd32b684634920df25'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/plgWdsGJ/versions/G4tyc4Ir/reddens_stone_lanterns_1.0.3-forge1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'plgWdsGJ'
+version = 'G4tyc4Ir'

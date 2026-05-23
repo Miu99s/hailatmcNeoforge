@@ -1,0 +1,18 @@
+filename = 'custom_nether_portals-forge-1.20.1-1.0.0.jar'
+name = 'Custom Nether Portal'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'af54530020c0196c715cbfbb23619aae84e745a1a3497b500d76c223034bdb1b559a56f9ba862cec58988fe735088999a23b972866e6cb0c215d6a2639a2728b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2OCozLqc/versions/HqesAUHS/custom_nether_portals-forge-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = '2OCozLqc'
+version = 'HqesAUHS'

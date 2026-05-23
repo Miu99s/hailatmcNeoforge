@@ -1,13 +1,98 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.index/ad-astra.pw.toml"
+hash = "9cbf7385875d1736ea25fb6ef4d3da866715e8cbdfc94c11573867ec5c24c051"
+metafile = true
+
+[[files]]
+file = "mods/.index/aether.pw.toml"
+hash = "2a32018d16978642400f6670798764d24543acb2b35b48ee70e928f1e851ef92"
+metafile = true
+
+[[files]]
+file = "mods/.index/alexs-caves.pw.toml"
+hash = "3a09bf669d20029ffbf91a1d4d468f67e00e6bfa8b308d02d3f697f56ba8aa9f"
+metafile = true
+
+[[files]]
+file = "mods/.index/ancient-structures-chinese.pw.toml"
+hash = "e0a0d687b070fdd0326d6caef6cb9a737701bc5090184e6e3a6b9afdd68529a5"
+metafile = true
+
+[[files]]
+file = "mods/.index/ancient-structures-edo-japan.pw.toml"
+hash = "0691189b1dae6deaed0dc69da51b191a62de600db513cbe2d6db3dabf3103711"
+metafile = true
+
+[[files]]
+file = "mods/.index/ancient-structures.pw.toml"
+hash = "9a20c6eb2f3b3b7f419657aa97e924a43b339aecde43fb4a301aed337eef4f1d"
+metafile = true
+
+[[files]]
+file = "mods/.index/apothic-attributes.pw.toml"
+hash = "352171589bd6f5c83eab66ae498f76d4b1dc13c00da2ee1923485b8f610f9265"
+metafile = true
+
+[[files]]
 file = "mods/.index/appleskin.pw.toml"
 hash = "afddb0579393880a8915fe0c2477024ddea5cd55da44b67d2ded6cd4b0fa9e56"
 metafile = true
 
 [[files]]
+file = "mods/.index/armor-of-the-ages.pw.toml"
+hash = "38e9be42db1bf5713a80dd1abe9c04a2547fce14e71457ca15b77567d65aed26"
+metafile = true
+
+[[files]]
+file = "mods/.index/bclib-forge.pw.toml"
+hash = "170d979a664d6ef175d65a246fc6f596b4cdd7c690a3f6fbb1b5249035433e3e"
+metafile = true
+
+[[files]]
+file = "mods/.index/blue-skies.pw.toml"
+hash = "84b54cf0d0b9efaed110b95aaa27c8dfabf393de830746bdff0a135aa99f3c66"
+metafile = true
+
+[[files]]
+file = "mods/.index/botarium.pw.toml"
+hash = "25b657090b62063f5ead45356c4cdf8a6223a4a1a02f63411638376d19aed03a"
+metafile = true
+
+[[files]]
 file = "mods/.index/canary.pw.toml"
 hash = "eb6b25367d465a1b334186c95de507d3c05b8c1b3cf0d915d9902c5087da878f"
+metafile = true
+
+[[files]]
+file = "mods/.index/citadel.pw.toml"
+hash = "c6addbf66c444ecded1ee9e7311d387da972fd18b36bc5890452aa16ff32b7b6"
+metafile = true
+
+[[files]]
+file = "mods/.index/curios.pw.toml"
+hash = "75e8dfb8aac9106737439e2557655feca96594f8c94d09cb9b325105ff4f66b8"
+metafile = true
+
+[[files]]
+file = "mods/.index/custom-nether-portal.pw.toml"
+hash = "de668c3dac0c31fc39042150d9a04640c62ebad957549de0565c85e81a7ed093"
+metafile = true
+
+[[files]]
+file = "mods/.index/dawn-of-time.pw.toml"
+hash = "bc8feb641a66dc11e794ac08760c733c84b996b892c969e56b055a3104ec3589"
+metafile = true
+
+[[files]]
+file = "mods/.index/deeperdarker.pw.toml"
+hash = "45463acccef534513ad83b73a634f217a03c21258bb8f7fa20f4f5d26840b9aa"
+metafile = true
+
+[[files]]
+file = "mods/.index/edenring-forge.pw.toml"
+hash = "4012c6c367a62408c2938585f2fb4fb8f9e11a10fe3a898c84e359533ad36988"
 metafile = true
 
 [[files]]
@@ -31,6 +116,21 @@ hash = "4946c13b4e43fbbb8f7b9d0eea138c553b690c62112e4f442ce2e63d6de3d553"
 metafile = true
 
 [[files]]
+file = "mods/.index/forgotten-ruins.pw.toml"
+hash = "0842f284e698ffa06482bdb7882e3c590f0cc52a152aa5a6672f43f89925867d"
+metafile = true
+
+[[files]]
+file = "mods/.index/fusion-connected-textures.pw.toml"
+hash = "72313f9a754227217dbc0af332b0c227d458e8ccdcd11c171792c5c27ada0689"
+metafile = true
+
+[[files]]
+file = "mods/.index/geckolib.pw.toml"
+hash = "e162728becb60131c73ae9c84c2eea6448fab4181705c578bbf8c72bfcf0ff56"
+metafile = true
+
+[[files]]
 file = "mods/.index/immediatelyfast.pw.toml"
 hash = "ad776fe55ca04d6d905e3100113bac2e5e4ee33a095a39998771056a10c84c58"
 metafile = true
@@ -41,13 +141,33 @@ hash = "69b70e9016a985e81d8fda1cb6a711393f37984c0c8541dbefb625f8f2c5844d"
 metafile = true
 
 [[files]]
+file = "mods/.index/irons-lib.pw.toml"
+hash = "b53a247aad7ba62cd57ef6ea6a2cbc122e863d24184f6a335dab62e77c20c724"
+metafile = true
+
+[[files]]
+file = "mods/.index/irons-spells-n-spellbooks.pw.toml"
+hash = "967799a57679b7ccd1aa08dc990ad2a1221890685bf8f91a6ac14d8bd3a63a33"
+metafile = true
+
+[[files]]
 file = "mods/.index/kotlin-for-forge.pw.toml"
 hash = "b073be7175bf2c9e444aae777fc62217c92b758cd7eb6b090f268c9a3d75623a"
 metafile = true
 
 [[files]]
+file = "mods/.index/lendercataclysm.pw.toml"
+hash = "b30c4fe0d496777bb0d4df98ebd801b40069c0fa463b6e2efcac8194b3862501"
+metafile = true
+
+[[files]]
 file = "mods/.index/libipn.pw.toml"
 hash = "2c5a4883d1d09de6f0a7b447c2e52b3b55599527d2b583d768edcaffd7fcf070"
+metafile = true
+
+[[files]]
+file = "mods/.index/lionfish-api.pw.toml"
+hash = "609a6b8c9c00647ec69a9f069b06f8480f9651525172baf43b9eb9688a6a0708"
 metafile = true
 
 [[files]]
@@ -71,8 +191,38 @@ hash = "ffcd31db2826c91060295e506f4586b6308c2abfa2bbe14fbc05396ea7dd6b9e"
 metafile = true
 
 [[files]]
+file = "mods/.index/placebo.pw.toml"
+hash = "17a1fe98279330cd1729145386be4f05fc085d8f776d02bcc2da39aa815ac9db"
+metafile = true
+
+[[files]]
+file = "mods/.index/player-locator-plus-reforged.pw.toml"
+hash = "cad4ff8af500de12cb6dab51aacd499447b3377e954f3cb83f071ea53ff3f2db"
+metafile = true
+
+[[files]]
+file = "mods/.index/playeranimator.pw.toml"
+hash = "30f55730c3c62394e9ebdbd57aaa909ba4390498c112da0d169ca77b70e86d58"
+metafile = true
+
+[[files]]
 file = "mods/.index/pretty-pipes.pw.toml"
 hash = "92a932ab0155029a0da6b443e456d0ecf2936cbe4a40c119d3baf9706639cd08"
+metafile = true
+
+[[files]]
+file = "mods/.index/reddens-stone-lanterns.pw.toml"
+hash = "9af221ed28a170df21ba765fcd7d4ccee70451126e852bdf26757f8eb0dea9af"
+metafile = true
+
+[[files]]
+file = "mods/.index/resourceful-config.pw.toml"
+hash = "9644ce2c05ece1ce1eb680e01dfbc88639a278ba106d2a0b3cdb447d7d37c364"
+metafile = true
+
+[[files]]
+file = "mods/.index/resourceful-lib.pw.toml"
+hash = "f9aa2dcd8909f601dab88c92c219f0c64d705c65b4948024de307534a088f247"
 metafile = true
 
 [[files]]
@@ -86,6 +236,16 @@ hash = "c75fb220980c036fceef1aafc662ac57da8838eec3051f126444ef2da57aa663"
 metafile = true
 
 [[files]]
+file = "mods/.index/spiral-tower-villages.pw.toml"
+hash = "ced0ae9653131e162f96d58325dc828368f1f992c96ae31f2b239028047c604f"
+metafile = true
+
+[[files]]
+file = "mods/.index/structure-gel-api.pw.toml"
+hash = "5cadcd80c6ff13471478b8eb14268e1a2b094a64e4fb1bf682a02ef56ee32c30"
+metafile = true
+
+[[files]]
 file = "mods/.index/tectonic.pw.toml"
 hash = "7ff527503575d14aa9d7f76622baadccab593fde35208de439c54454aea2344b"
 metafile = true
@@ -96,8 +256,48 @@ hash = "b9c0404c8670898df72e05d09bb8fdfdeb5bc3b0ca5ee2fb546fc62f52e7bc99"
 metafile = true
 
 [[files]]
+file = "mods/.index/the-abyss-chapter-ii.pw.toml"
+hash = "887bb6d6033be8b2cf298938c51a143eacc339d562f842274218d8f663275613"
+metafile = true
+
+[[files]]
+file = "mods/.index/the-bumblezone-forge.pw.toml"
+hash = "483ef4b9c8321ce9cfafb3f63eb558dd09f2981dbe7f39b2f64f353362fee410"
+metafile = true
+
+[[files]]
+file = "mods/.index/the-sound-of-rain.pw.toml"
+hash = "2d1a70299d292407db11cba8e46fe15a2a1cbe025c63cc5ecb46bda54c2ceeb8"
+metafile = true
+
+[[files]]
+file = "mods/.index/the-twilight-forest.pw.toml"
+hash = "874fa3d7bde7fc69a7e2e7341f7217069b8bfb71b1ab5e8ce72d578d5e0eaed4"
+metafile = true
+
+[[files]]
+file = "mods/.index/the-undergarden.pw.toml"
+hash = "5c4b30871238f0fcd7886056d9832bf7916176c2a31dd7a7800364fa66d3631a"
+metafile = true
+
+[[files]]
+file = "mods/.index/to-tweaks-irons-spells.pw.toml"
+hash = "6bdbca6fcb31f5b840eeb69ff83509c4bd0e368d7f7ec7df7df443de59a3526b"
+metafile = true
+
+[[files]]
 file = "mods/.index/torohealth-damage-indicators-updated.pw.toml"
 hash = "c102cd39841d2cba6a3ae9473b8775a21e01317811e02fd35387f6f949a00028"
+metafile = true
+
+[[files]]
+file = "mods/.index/voidscape.pw.toml"
+hash = "d683d1e0f2bdd26bf90d251d851bbc6a86f2ae52e7fcb41fa62e4c04589850ba"
+metafile = true
+
+[[files]]
+file = "mods/.index/wunderlib-forge.pw.toml"
+hash = "11458e659016b96daab1b795edcfa97f0e825e14fba2e04c835e82cf3250cbc7"
 metafile = true
 
 [[files]]
@@ -109,6 +309,27 @@ metafile = true
 file = "mods/.index/xaeros-world-map.pw.toml"
 hash = "1dbe5cd38b82dcdc4977a3033672538f73e6d5488e9c828488b12fd26218cf56"
 metafile = true
+
+[[files]]
+file = "mods/.index/yacl.pw.toml"
+hash = "17120802ac3e6852d2146e0b57d0252d012513e794c75047936fe901daced959"
+metafile = true
+
+[[files]]
+file = "mods/ApothicAttributes-1.20.1-1.3.7.jar"
+hash = "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a"
+
+[[files]]
+file = "mods/Armor of the Ages-forge-1.20.1-1.3.15.jar"
+hash = "1abfc254d0ec223e318bf822e6d396a7c694a65776a5cd9cbfb4b05c0f5aafc8"
+
+[[files]]
+file = "mods/BCLib-20.0.9.jar"
+hash = "fc495d2a7847c630012dbc62e9171a0fe8905e569aa766e39d04dabe99f31976"
+
+[[files]]
+file = "mods/EdenRing-20.0.2.jar"
+hash = "7b85282892286472d17b31868c826ac489a5a028fcdd8f3d490a9352a454dd85"
 
 [[files]]
 file = "mods/FixPotionInventory-1.0.0.jar"
@@ -123,20 +344,96 @@ file = "mods/InventoryProfilesNext-forge-1.20-1.10.20.jar"
 hash = "2f664f23ed031f6cfacce01b0461c450e2248435936cb6b7e2e0463c6ec56343"
 
 [[files]]
+file = "mods/L_Enders_Cataclysm-3.28-optimization.jar"
+hash = "c786603ecc395d3e35f174b6313b835afb3abd4491acc7887b0dfcabdae82d58"
+
+[[files]]
+file = "mods/Placebo-1.20.1-8.6.3.jar"
+hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
+
+[[files]]
 file = "mods/PrettyPipes-1.15.0-all.jar"
 hash = "8d5d0bf687d7377067fc55e94d361e4a01b1a6710d13caba72f7af61c6e84438"
+
+[[files]]
+file = "mods/TATOS 1.0.5_beta.jar"
+hash = "a42bc700a8fcfc32fa8ec122720296bc61b3324cd6f249a60fe342793ecbf5f5"
 
 [[files]]
 file = "mods/Terralith_1.20.x_v2.5.4.jar"
 hash = "8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f"
 
 [[files]]
+file = "mods/The_Undergarden-1.20.1-0.8.14.jar"
+hash = "43029e388ab455f8c9bcfc8653b9a57a3eb1ff6b435cf6e58722d2d4c50d2444"
+
+[[files]]
+file = "mods/Voidscape-1.20.1-1.5.389.jar"
+hash = "c3eb2cc621c035460652f71ecaa80f54db1bc69f8440538f904baf46a96411a8"
+
+[[files]]
+file = "mods/WunderLib-20.0.1.jar"
+hash = "33d30150d69f0b1f1b077dab0edbefdca5e274bfa9a56578c6fe35d4dc62ccbd"
+
+[[files]]
+file = "mods/ad_astra-forge-1.20.1-1.15.20.jar"
+hash = "99e274894af7c3b01622a74775a9960b5857b35951888414e733f8c2ec683f26"
+
+[[files]]
+file = "mods/aether-1.20.1-1.5.2-neoforge.jar"
+hash = "b6b586eb6fdc9ce4b3645cab43642ba87817c5deadef4d87ab884e4fe20ef282"
+
+[[files]]
+file = "mods/alexscaves-2.0.2.jar"
+hash = "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0"
+
+[[files]]
+file = "mods/ancientstructures-forge-1.20.1-0.0.14.jar"
+hash = "55744742ea6ac7b189934732b7b51b960b85621a4405ba6119b08d2e1b9910f2"
+
+[[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
 [[files]]
+file = "mods/aschinese-forge-1.20.1-0.1.0.jar"
+hash = "5e0d587a87206255ff240e49a4e98d6c30a6612acb1428e97c3d9a28cc45857e"
+
+[[files]]
+file = "mods/asedojapan-forge-1.20.1-0.1.2.jar"
+hash = "3733b8396c9c976bc33b8ebadbcf789ba3442dca8042448bec25d3a39789b9a7"
+
+[[files]]
+file = "mods/blue_skies-1.20.1-1.3.31.jar"
+hash = "dda5351a7d75f8074e9878912140fd5ab2fe4e74d7678d4f9c52c0b86bce9748"
+
+[[files]]
+file = "mods/botarium-forge-1.20.1-2.3.4.jar"
+hash = "470810a364ff4ad4d4fcd4e55798263938fc893970eacecc58e8b741a392b1cf"
+
+[[files]]
 file = "mods/canary-mc1.20.1-0.3.3.jar"
 hash = "51f6d78dd6c7874657e5757fd2f5d780aa3cd415052ad071077b8894c6430942"
+
+[[files]]
+file = "mods/citadel-2.6.3-1.20.1.jar"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
+file = "mods/custom_nether_portals-forge-1.20.1-1.0.0.jar"
+hash = "1e33fbf7973fbcd8d1a06c754a8fcac8a20e02790324a8321933f180cb43dfc1"
+
+[[files]]
+file = "mods/dawnoftimebuilder-forge-1.20.1-1.5.51.jar"
+hash = "abfec303a0bd69e66ce91d5bc24de3a164288d3320e22f69a9d08109d867d0bc"
+
+[[files]]
+file = "mods/deeperdarker-forge-1.20.1-1.3.3.jar"
+hash = "d07dc6155e0b751c7d1ec26dabb7284a41798c85e48b0d809fd1254e489ed455"
 
 [[files]]
 file = "mods/embeddium-0.3.31+mc1.20.1.jar"
@@ -151,12 +448,36 @@ file = "mods/ferritecore-6.0.1-forge.jar"
 hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
 
 [[files]]
+file = "mods/forgottenruins-forge-1.20.1-0.0.13.jar"
+hash = "cb4bd7d002c9b3fc575a1744ead82131368981f322d5250907d64f9e470b6eaf"
+
+[[files]]
+file = "mods/fusion-1.2.12-forge-mc1.20.1.jar"
+hash = "5cb039922e08ae6b8705d50e484a8759579025fb4f48413fa62d2056505fb45e"
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
+hash = "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250"
+
+[[files]]
+file = "mods/irons_lib-1.20.1-1.0.2.jar"
+hash = "7c1afcd2772aa1ced0c30678a6bf1bf9c605a482d18e2b03d51152e05d4a2800"
+
+[[files]]
+file = "mods/irons_spellbooks-1.20.1-3.15.6.jar"
+hash = "61996bb3cdb9601d83376f81295967f19a6f036563bb5a0e0f672967344a6fa7"
+
+[[files]]
 file = "mods/kotlinforforge-4.12.0-all.jar"
 hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 
 [[files]]
 file = "mods/libIPN-forge-1.20-4.0.2.jar"
 hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
+
+[[files]]
+file = "mods/lionfishapi-3.0.jar"
+hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
 
 [[files]]
 file = "mods/lithostitched-forge-1.20.1-1.4.11.jar"
@@ -175,6 +496,26 @@ file = "mods/noisiumed-fabric-3.0.5+mc1.20-1.20.1.jar"
 hash = "0632fce7a2e8b5a8f826f50f7a4228b0ab49bb9ef487c9f1b59f0c787ee5df1c"
 
 [[files]]
+file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "mods/playerlocatorplusreforged-1.0.1.jar"
+hash = "8b1f726b602fd24984ed634e6ae933fdaaac7c0f82f70b1f1fcf1e17b87f524f"
+
+[[files]]
+file = "mods/reddens_stone_lanterns_1.0.3-forge1.20.1.jar"
+hash = "e38e66efedbc6c92228ffb8d9c2b5ae5441847fbea55c984e3b723906dc901c9"
+
+[[files]]
+file = "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+hash = "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded"
+
+[[files]]
+file = "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
+hash = "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
+
+[[files]]
 file = "mods/sophisticatedcore-1.20.1-1.3.37.1868.jar"
 hash = "78df073d8f0b912e74a7c1752f9d5aab41b8af9c71c9b4f2ce3382d1e66dd46b"
 
@@ -183,12 +524,36 @@ file = "mods/sophisticatedstorage-1.20.1-1.4.46.1730.jar"
 hash = "a6362e58b1efd4fd4479e58da8ace55197b028e82445621b6323f22d934f5cf1"
 
 [[files]]
+file = "mods/soundofrain-0.6.0.jar"
+hash = "4a2a9dd3c74390bc8e7b8fb58d25ffe612092a94c684980fbfa4e9c1bc7981ef"
+
+[[files]]
+file = "mods/spiral_tower_village-0.0.3.jar"
+hash = "8a69c413afd1adf4a60b11511d58f6d97e25deb1c32201ab2e757fc7ccb31fbe"
+
+[[files]]
+file = "mods/structure_gel-1.20.1-2.16.2.jar"
+hash = "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
+
+[[files]]
 file = "mods/tectonic-3.0.17-forge-1.20.1.jar"
 hash = "c6de479b27cf090510de3f029918afc9fe17226981bd703e0002f7a25f4d8969"
 
 [[files]]
+file = "mods/the_bumblezone-7.11.3+1.20.1-forge.jar"
+hash = "ef96406076e7d08c6f7bab7ca98a5f4158ea1b7e7eccadefbd0099a0320d7905"
+
+[[files]]
 file = "mods/torohealth-1.20.1-forge-1.jar"
 hash = "4849b8572e20ddfce9b4387856ab0b0b2cc5ed96fb2287e1ba4868d195cff62b"
+
+[[files]]
+file = "mods/traveloptics-6.3.0-1.20.1.jar"
+hash = "878a0fb5a2057de530698fd63091b9fa1c23af0139054af108e9d566840a0fa9"
+
+[[files]]
+file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
+hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
 file = "mods/xaerominimap-forge-1.20.1-25.3.13.jar"
@@ -197,3 +562,7 @@ hash = "107a686c1a1637998c8ce7fa2262bb8c36f24277d6b2cf4b512a0b176ff41e89"
 [[files]]
 file = "mods/xaeroworldmap-forge-1.20.1-1.40.16.jar"
 hash = "49fbf2a0c91ca7e161b17f3b1784d4e798d0cd19f361ad3ebf6613e559f6371d"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
