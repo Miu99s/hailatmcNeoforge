@@ -201,6 +201,11 @@ hash = "5c4b30871238f0fcd7886056d9832bf7916176c2a31dd7a7800364fa66d3631a"
 metafile = true
 
 [[files]]
+file = "mods/.index/to-tweaks-irons-spells.pw.toml"
+hash = "6bdbca6fcb31f5b840eeb69ff83509c4bd0e368d7f7ec7df7df443de59a3526b"
+metafile = true
+
+[[files]]
 file = "mods/.index/torohealth-damage-indicators-updated.pw.toml"
 hash = "c102cd39841d2cba6a3ae9473b8775a21e01317811e02fd35387f6f949a00028"
 metafile = true
