@@ -1,0 +1,18 @@
+filename = 'noisiumed-fabric-3.0.5+mc1.20-1.20.1.jar'
+name = 'Noisiumed'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.5'
+
+[download]
+hash = 'c1cdab68c6f2ab3b5f9c4e0e7c77884303c228ed697e4f7e263e09573c7b1f5a049b49d8cfb5ec23e3a4dd1011b2c62b2bdbba5eaecb592b5396b8865c879004'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M8MasaZG/versions/GY8Oa5on/noisiumed-fabric-3.0.5%2Bmc1.20-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'M8MasaZG'
+version = 'GY8Oa5on'
