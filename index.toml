@@ -437,6 +437,10 @@ file = "overrides/mods/citadel-2.6.3-1.20.1.jar"
 hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
 
 [[files]]
+file = "overrides/mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
+
+[[files]]
 file = "overrides/mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
@@ -459,6 +463,10 @@ hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
 [[files]]
 file = "overrides/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "overrides/mods/simplylight-1.20.1-1.4.6-build.50.jar"
+hash = "893c67fb4bbafee6e3208ba34bf60e2d6f17f4f9efdb6d1f12baa4052d8ddd10"
 
 [[files]]
 file = "overrides/mods/the_bumblezone-7.11.3+1.20.1-forge.jar"
