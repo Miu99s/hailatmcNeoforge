@@ -395,3 +395,79 @@ hash = "49fbf2a0c91ca7e161b17f3b1784d4e798d0cd19f361ad3ebf6613e559f6371d"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
 hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "overrides/mods/ApothicAttributes-1.20.1-1.3.7.jar"
+hash = "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a"
+
+[[files]]
+file = "overrides/mods/BCLib-20.0.9.jar"
+hash = "fc495d2a7847c630012dbc62e9171a0fe8905e569aa766e39d04dabe99f31976"
+
+[[files]]
+file = "overrides/mods/EdenRing-20.0.2.jar"
+hash = "7b85282892286472d17b31868c826ac489a5a028fcdd8f3d490a9352a454dd85"
+
+[[files]]
+file = "overrides/mods/L_Enders_Cataclysm-3.28-optimization.jar"
+hash = "c786603ecc395d3e35f174b6313b835afb3abd4491acc7887b0dfcabdae82d58"
+
+[[files]]
+file = "overrides/mods/Placebo-1.20.1-8.6.3.jar"
+hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
+
+[[files]]
+file = "overrides/mods/TATOS 1.0.5_beta.jar"
+hash = "a42bc700a8fcfc32fa8ec122720296bc61b3324cd6f249a60fe342793ecbf5f5"
+
+[[files]]
+file = "overrides/mods/Voidscape-1.20.1-1.5.389.jar"
+hash = "c3eb2cc621c035460652f71ecaa80f54db1bc69f8440538f904baf46a96411a8"
+
+[[files]]
+file = "overrides/mods/WunderLib-20.0.1.jar"
+hash = "33d30150d69f0b1f1b077dab0edbefdca5e274bfa9a56578c6fe35d4dc62ccbd"
+
+[[files]]
+file = "overrides/mods/alexscaves-2.0.2.jar"
+hash = "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0"
+
+[[files]]
+file = "overrides/mods/citadel-2.6.3-1.20.1.jar"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "overrides/mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
+file = "overrides/mods/geckolib-forge-1.20.1-4.8.3.jar"
+hash = "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250"
+
+[[files]]
+file = "overrides/mods/irons_lib-1.20.1-1.0.2.jar"
+hash = "7c1afcd2772aa1ced0c30678a6bf1bf9c605a482d18e2b03d51152e05d4a2800"
+
+[[files]]
+file = "overrides/mods/irons_spellbooks-1.20.1-3.15.6.jar"
+hash = "61996bb3cdb9601d83376f81295967f19a6f036563bb5a0e0f672967344a6fa7"
+
+[[files]]
+file = "overrides/mods/lionfishapi-3.0.jar"
+hash = "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871"
+
+[[files]]
+file = "overrides/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "overrides/mods/the_bumblezone-7.11.3+1.20.1-forge.jar"
+hash = "ef96406076e7d08c6f7bab7ca98a5f4158ea1b7e7eccadefbd0099a0320d7905"
+
+[[files]]
+file = "overrides/mods/traveloptics-6.3.0-1.20.1.jar"
+hash = "878a0fb5a2057de530698fd63091b9fa1c23af0139054af108e9d566840a0fa9"
+
+[[files]]
+file = "overrides/mods/twilightforest-1.20.1-4.3.2508-universal.jar"
+hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
