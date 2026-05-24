@@ -26,6 +26,11 @@ hash = "9a20c6eb2f3b3b7f419657aa97e924a43b339aecde43fb4a301aed337eef4f1d"
 metafile = true
 
 [[files]]
+file = "mods/.index/apothic-attributes.pw.toml"
+hash = "352171589bd6f5c83eab66ae498f76d4b1dc13c00da2ee1923485b8f610f9265"
+metafile = true
+
+[[files]]
 file = "mods/.index/appleskin.pw.toml"
 hash = "afddb0579393880a8915fe0c2477024ddea5cd55da44b67d2ded6cd4b0fa9e56"
 metafile = true
@@ -226,6 +231,11 @@ hash = "ed64b7b4f862fe1d3002366aa5fb2d611485b10ff3c21be01a32f3846e2ef06b"
 metafile = true
 
 [[files]]
+file = "mods/.index/to-tweaks-irons-spells.pw.toml"
+hash = "6bdbca6fcb31f5b840eeb69ff83509c4bd0e368d7f7ec7df7df443de59a3526b"
+metafile = true
+
+[[files]]
 file = "mods/.index/torohealth-damage-indicators-updated.pw.toml"
 hash = "c102cd39841d2cba6a3ae9473b8775a21e01317811e02fd35387f6f949a00028"
 metafile = true
@@ -244,6 +254,10 @@ metafile = true
 file = "mods/.index/yacl.pw.toml"
 hash = "17120802ac3e6852d2146e0b57d0252d012513e794c75047936fe901daced959"
 metafile = true
+
+[[files]]
+file = "mods/ApothicAttributes-1.20.1-1.3.7.jar"
+hash = "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a"
 
 [[files]]
 file = "mods/Armor of the Ages-forge-1.20.1-1.3.15.jar"
@@ -492,6 +506,10 @@ hash = "ef96406076e7d08c6f7bab7ca98a5f4158ea1b7e7eccadefbd0099a0320d7905"
 [[files]]
 file = "mods/torohealth-1.20.1-forge-1.jar"
 hash = "4849b8572e20ddfce9b4387856ab0b0b2cc5ed96fb2287e1ba4868d195cff62b"
+
+[[files]]
+file = "mods/traveloptics-6.3.0-1.20.1.jar"
+hash = "878a0fb5a2057de530698fd63091b9fa1c23af0139054af108e9d566840a0fa9"
 
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
