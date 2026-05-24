@@ -126,6 +126,11 @@ hash = "69b70e9016a985e81d8fda1cb6a711393f37984c0c8541dbefb625f8f2c5844d"
 metafile = true
 
 [[files]]
+file = "mods/.index/jei.pw.toml"
+hash = "75edc1935771b7b58fe3db4197f0246c35729e033336065c3814ed0e6a2d2144"
+metafile = true
+
+[[files]]
 file = "mods/.index/kotlin-for-forge.pw.toml"
 hash = "b073be7175bf2c9e444aae777fc62217c92b758cd7eb6b090f268c9a3d75623a"
 metafile = true
@@ -414,6 +419,10 @@ hash = "7c1afcd2772aa1ced0c30678a6bf1bf9c605a482d18e2b03d51152e05d4a2800"
 [[files]]
 file = "mods/irons_spellbooks-1.20.1-3.15.6.jar"
 hash = "61996bb3cdb9601d83376f81295967f19a6f036563bb5a0e0f672967344a6fa7"
+
+[[files]]
+file = "mods/jei-1.20.1-forge-15.20.0.130.jar"
+hash = "36d3dfb2214b9dca38c447fd971dd2dedc5f69719a5aca6ffcef69b2840ece0a"
 
 [[files]]
 file = "mods/kotlinforforge-4.12.0-all.jar"
