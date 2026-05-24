@@ -216,6 +216,11 @@ hash = "5c4b30871238f0fcd7886056d9832bf7916176c2a31dd7a7800364fa66d3631a"
 metafile = true
 
 [[files]]
+file = "mods/.index/timeless-and-classics-zero.pw.toml"
+hash = "ed64b7b4f862fe1d3002366aa5fb2d611485b10ff3c21be01a32f3846e2ef06b"
+metafile = true
+
+[[files]]
 file = "mods/.index/torohealth-damage-indicators-updated.pw.toml"
 hash = "c102cd39841d2cba6a3ae9473b8775a21e01317811e02fd35387f6f949a00028"
 metafile = true
@@ -462,6 +467,10 @@ hash = "8a69c413afd1adf4a60b11511d58f6d97e25deb1c32201ab2e757fc7ccb31fbe"
 [[files]]
 file = "mods/structure_gel-1.20.1-2.16.2.jar"
 hash = "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
+
+[[files]]
+file = "mods/tacz-1.20.1-1.1.8-release.jar"
+hash = "34fd14c5b88b09f95b4f6759939370710d73352a6c910b3067e6f2c281043fef"
 
 [[files]]
 file = "mods/tectonic-3.0.17-forge-1.20.1.jar"
