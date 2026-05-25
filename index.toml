@@ -37,6 +37,10 @@ file = "mods/PrettyPipes-1.15.0-all.jar"
 hash = "8d5d0bf687d7377067fc55e94d361e4a01b1a6710d13caba72f7af61c6e84438"
 
 [[files]]
+file = "mods/StackableItems-forge-1.20.[0-1]-v1.2.jar"
+hash = "bfa816be694fbba649863e97bab05397af32e78657468746f3a3d647f5d191aa"
+
+[[files]]
 file = "mods/TATOS 1.0.5_beta.jar"
 hash = "a42bc700a8fcfc32fa8ec122720296bc61b3324cd6f249a60fe342793ecbf5f5"
 
