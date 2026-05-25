@@ -29,10 +29,6 @@ file = "mods/InventoryProfilesNext-forge-1.20-1.10.20.jar"
 hash = "2f664f23ed031f6cfacce01b0461c450e2248435936cb6b7e2e0463c6ec56343"
 
 [[files]]
-file = "mods/L_Enders_Cataclysm-3.16.jar"
-hash = "ac1028f4bfaa2629d80ce3c1f26e28ceec2e6f2aaaac3bb03dd8957856d2e7ca"
-
-[[files]]
 file = "mods/Placebo-1.20.1-8.6.3.jar"
 hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
 
