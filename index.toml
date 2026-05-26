@@ -113,6 +113,10 @@ file = "mods/cloth-config-11.1.136-forge.jar"
 hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
 
 [[files]]
+file = "mods/connectedglass-1.1.14-forge-mc1.20.1.jar"
+hash = "a00e37b978c6d73110157879373fe3e97784bbf0c8d4e5fc8dbd9f00e1113fc0"
+
+[[files]]
 file = "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
 hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
 
@@ -249,6 +253,10 @@ file = "mods/structure_gel-1.20.1-2.16.2.jar"
 hash = "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
 
 [[files]]
+file = "mods/supermartijn642corelib-1.1.21-forge-mc1.20.1.jar"
+hash = "6e4f3664aaa5f4138a43acb246c0d91672372acb78a02b89a0531c11596f2c1c"
+
+[[files]]
 file = "mods/tacz-1.20.1-1.1.8-release.jar"
 hash = "34fd14c5b88b09f95b4f6759939370710d73352a6c910b3067e6f2c281043fef"
 
@@ -267,6 +275,10 @@ hash = "4849b8572e20ddfce9b4387856ab0b0b2cc5ed96fb2287e1ba4868d195cff62b"
 [[files]]
 file = "mods/traveloptics-6.3.0-1.20.1.jar"
 hash = "878a0fb5a2057de530698fd63091b9fa1c23af0139054af108e9d566840a0fa9"
+
+[[files]]
+file = "mods/trek-B0.6.1.1.jar"
+hash = "f543c3d747e570ea07eec015478b18d05c54bb5fa2a91885d3dee071f5403f83"
 
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
