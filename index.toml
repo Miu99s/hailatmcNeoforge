@@ -17,7 +17,7 @@ file = "mods/EdenRing-20.0.2.jar"
 hash = "7b85282892286472d17b31868c826ac489a5a028fcdd8f3d490a9352a454dd85"
 
 [[files]]
-file = "mods/FixPotionInventory-1.0.0.jar"
+file = "mods/FixPotionInventory-1.0.0.jar.disabled"
 hash = "257446271bac0f7d56aed10bf874407ff234d98e6100473a4b0d71e3dbfedd4d"
 
 [[files]]
@@ -38,7 +38,7 @@ hash = "8d5d0bf687d7377067fc55e94d361e4a01b1a6710d13caba72f7af61c6e84438"
 
 [[files]]
 file = "mods/StackableItems-forge-1.20.[0-1]-v1.2.jar"
-hash = "e9747867e8a00d73eeac16bd0410523be637e4c50644fae92a2181231b70cf8d"
+hash = "64d39267a4bbc16653bf3dad6410ff30239e2adb7ca5e83cff081082242aba87"
 
 [[files]]
 file = "mods/TATOS 1.0.5_beta.jar"
@@ -79,6 +79,10 @@ hash = "55744742ea6ac7b189934732b7b51b960b85621a4405ba6119b08d2e1b9910f2"
 [[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+
+[[files]]
+file = "mods/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
 
 [[files]]
 file = "mods/aschinese-forge-1.20.1-0.1.0.jar"
@@ -181,6 +185,10 @@ file = "mods/kotlinforforge-4.12.0-all.jar"
 hash = "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
 
 [[files]]
+file = "mods/kubejs-forge-2001.6.5-build.26.jar"
+hash = "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb"
+
+[[files]]
 file = "mods/libIPN-forge-1.20-4.0.2.jar"
 hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
 
@@ -227,6 +235,10 @@ hash = "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded"
 [[files]]
 file = "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
 hash = "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8"
+
+[[files]]
+file = "mods/rhino-forge-2001.2.3-build.10.jar"
+hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
 
 [[files]]
 file = "mods/simplylight-1.20.1-1.4.6-build.50.jar"
