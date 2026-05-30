@@ -149,6 +149,10 @@ file = "mods/embeddium-0.3.31+mc1.20.1.jar"
 hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
 
 [[files]]
+file = "mods/enchanted_arsenal-1.0.1-forge-1.20.1.jar"
+hash = "961eb2909276ae4a653734db1afb5dc6ae32e75b1ac1a82bb38c02ffd2b1a61c"
+
+[[files]]
 file = "mods/entityculling-forge-1.10.2-mc1.20.1.jar"
 hash = "34da8e10cf31ade2b86b02e4f55c4d3b480a0992148ac12f9ec49eb7be4bfda0"
 
@@ -275,6 +279,10 @@ hash = "6e4f3664aaa5f4138a43acb246c0d91672372acb78a02b89a0531c11596f2c1c"
 [[files]]
 file = "mods/tacz-1.20.1-1.1.8-release.jar"
 hash = "34fd14c5b88b09f95b4f6759939370710d73352a6c910b3067e6f2c281043fef"
+
+[[files]]
+file = "mods/taczenchantmentplus-2.0.1.jar"
+hash = "2f1e2438c027686e1f194170b73eca424b3b93c66096255a81661b2278e6bc98"
 
 [[files]]
 file = "mods/tectonic-3.0.17-forge-1.20.1.jar"
