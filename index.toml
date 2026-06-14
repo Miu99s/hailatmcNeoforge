@@ -309,12 +309,12 @@ file = "mods/twilightforest-1.20.1-4.3.2508-universal.jar"
 hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"
 
 [[files]]
-file = "mods/xaerominimap-forge-1.20.1-25.3.13.jar"
-hash = "107a686c1a1637998c8ce7fa2262bb8c36f24277d6b2cf4b512a0b176ff41e89"
+file = "mods/xaerominimap-forge-1.20.1-26.1.0.jar"
+hash = "529257c33bf3cacae473332e029acb1e60807cb8865a96627f2cfbcce736ab8f"
 
 [[files]]
-file = "mods/xaeroworldmap-forge-1.20.1-1.40.16.jar"
-hash = "49fbf2a0c91ca7e161b17f3b1784d4e798d0cd19f361ad3ebf6613e559f6371d"
+file = "mods/xaeroworldmap-forge-1.20.1-1.41.0.jar"
+hash = "7c9d5f29054f8df769b201906e9fe8ad51516a18c60667d220809f3f9019a9ec"
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
